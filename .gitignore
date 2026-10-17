@@ -2,3 +2,9 @@
 *.tmp
 .vscode/
 Thumbs.db
+
+# 本地工具，不进仓库
+记一课.ps1
+记笔记.log
+note.ico
+icon-note.png
